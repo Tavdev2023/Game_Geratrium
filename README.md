@@ -1,2 +1,2 @@
-# gameGeratrium
-Game Project using Python. Rules available on README file. Private for employers.
+# Geratrium
+O jogo é disputado em um formato MD5, no qual vence quem conquistar três tabuleiros primeiro. Cada tabuleiro é gerado aleatoriamente, variando entre 7 e 11 linhas e colunas. O primeiro jogador inicia escolhendo um quadriculado aleatório, exceto o central (quando existir), enquanto o segundo jogador deve começar no quadriculado simétrico ao escolhido pelo adversário em relação ao centro. Os jogadores se alternam nos turnos, e cada movimento só pode ser feito para um quadriculado adjacente (direita, esquerda, acima ou abaixo). Uma vez utilizado, um quadriculado não pode ser escolhido novamente. A rodada termina quando um jogador não consegue mais se mover, declarando vitória para o outro. Ganha quem conquistar três rodadas primeiro — e, acima de tudo, a regra mais importante é: divirta-se!
